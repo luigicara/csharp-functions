@@ -42,11 +42,8 @@
             //mostro la somma in console
             Console.WriteLine("Somma elementi array iniziale: " + sum);
 
-            //elevo la somma al quadrato 
-            int squaredSum = Quadrato(sum);
-
-            //mostro il quadrato in console
-            Console.WriteLine("Quadrato Somma: " +  squaredSum);
+            //mostro la somma degli elementi al quadrato in console
+            Console.WriteLine("Somma array quadrato: " +  SommaElementiArray(arrayCopy));
 
         }
 
