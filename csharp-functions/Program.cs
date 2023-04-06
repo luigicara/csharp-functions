@@ -40,7 +40,7 @@
             int sum = SommaElementiArray(array);
 
             //mostro la somma in console
-            Console.WriteLine("Somma: " + sum);
+            Console.WriteLine("Somma elementi array iniziale: " + sum);
 
             //elevo la somma al quadrato 
             int squaredSum = Quadrato(sum);
