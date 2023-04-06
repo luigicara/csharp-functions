@@ -52,7 +52,7 @@
 
         public static void StampaArray(string definition,int[] array)
         {
-            Console.Write(definition + "= [");
+            Console.Write(definition + " = [");
 
             for (int i = 0; i < array.Length; i++)
             {
