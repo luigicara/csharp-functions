@@ -9,7 +9,7 @@
 
             //INIZIO BONUS
 
-            //dichiaro array da riempire
+            //dichiaro lunghezza array da riempire
             int arrayLength;
 
             //chiedo all'utente la lunghezza dell'array
