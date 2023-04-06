@@ -105,7 +105,7 @@
         {
             for (int i = 0; i < array.Length ; i++)
             {
-                Console.WriteLine($"Inserisci il {i + 1} numero");
+                Console.WriteLine($"Inserisci il {i + 1}° numero");
                 while (!int.TryParse(Console.ReadLine(), out array[i]))
                     Console.WriteLine("Inserisci un VERO numero");
             }
