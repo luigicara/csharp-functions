@@ -59,7 +59,7 @@
                 Console.Write(array[i]);
 
                 if (i != array.Length - 1)
-                    Console.Write(","); 
+                    Console.Write(", "); 
             }
             Console.WriteLine("]");
         }
